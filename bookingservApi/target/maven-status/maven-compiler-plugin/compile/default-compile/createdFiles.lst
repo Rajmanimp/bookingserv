@@ -1,0 +1,7 @@
+com/paypal/bfs/test/bookingserv/exception/BadRequestException.class
+com/paypal/bfs/test/bookingserv/api/model/Address.class
+com/paypal/bfs/test/bookingserv/api/BookingResource.class
+com/paypal/bfs/test/bookingserv/api/model/Booking.class
+com/paypal/bfs/test/bookingserv/exception/ApiError.class
+com/paypal/bfs/test/bookingserv/exception/ValidationException.class
+com/paypal/bfs/test/bookingserv/exception/EntityNotFoundException.class
